@@ -1,4 +1,4 @@
-chef-unzip
-==========
+DESCRIPTION
+===========
 
-Chef cookbook to install unzip tool. 
+Installs the unzip package.
