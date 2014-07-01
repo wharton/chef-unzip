@@ -1,4 +1,4 @@
-name             "chef-unzip"
+name             "unzip"
 maintainer       "Nathan Mische"
 maintainer_email "nmsiche@wharton.upenn.edu"
 license          "Apache 2.0"
